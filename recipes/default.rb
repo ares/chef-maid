@@ -8,7 +8,7 @@
 #
 
 gem_package "maid" do
-  version '0.8.0'
+  version '0.7.0'
 end
 
 directory "/home/#{node[:user]}/.maid" do
